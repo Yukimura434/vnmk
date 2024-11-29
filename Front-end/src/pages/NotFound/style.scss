@@ -1,0 +1,78 @@
+.not-found-container {
+  // background-color: #eaeaea;
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: column; /* Đặt title và subtitle theo chiều dọc */
+  align-items: center;
+  margin-bottom: 1rem; /* Giảm khoảng cách giữa title-container và các phần tử khác */
+}
+
+.title-container h3 {
+  margin: 0;
+  padding: 0;
+  font-size: 1.5rem;
+  color: #262626;
+  letter-spacing: 0.3rem;
+  margin-bottom: 0.5rem; /* Giảm khoảng cách giữa h3 và 404 */
+  animation: slideBottom 1s ease forwards;
+  animation-delay: .5s;
+  font-family : monospace;
+
+}
+
+.result-title {
+  text-shadow: -0.8rem 0 0 #eaeaea;
+  font-size: 10rem; /* Giảm kích thước chữ để hợp lý hơn */
+  font-weight: 900;
+  margin: 0;
+  color: #262626;
+  text-transform: uppercase;
+  letter-spacing: -1.5rem; /* Giảm khoảng cách giữa các ký tự */
+}
+
+.result-subtitle {
+  font-size: 1.2rem; /* Giảm kích thước chữ */
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #000;
+  margin-top: 0rem; /* Giảm khoảng cách từ title */
+  margin-bottom: 1.5rem;
+  font-family : monospace;
+
+}
+
+.wrapper__back__homet__button {
+  background-color: #626262;
+  display: inline-block;
+  padding: 8px; /* Giảm padding */
+  // background: #eaeaea;
+  background: white;
+  border: 2px solid #626262;
+  box-shadow: 0 0 10px rgba(0,0,0,.1);
+  color: #626262;
+  letter-spacing: 1px;
+  text-decoration: none;
+  font-weight: 800;
+  transition:  all 0.3s ease;
+  opacity: 0;
+  animation: slideTop 1s ease forwards;
+  animation-delay: .5s;
+
+  &:hover {
+    background: transparent;
+    color: black;
+    border: 2px solid black;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+}

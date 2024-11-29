@@ -1,0 +1,40 @@
+.filter-container {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+  }
+  .filter-container:hover {
+    color: black;
+  }
+  
+  .reset-button {
+    color: red;
+
+  }
+  
+  .filter-menu {
+    display: flex;
+    gap: 16px;
+
+  }
+
+  .filter-button {
+    /* background: #eaeaea; */
+    background: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    transition: background 0.3s ease, color 0.3s ease;
+    color: black !important; /* Đảm bảo màu chữ không bị ghi đè */
+  }
+  
+  .filter-button:hover {
+    background: #d0d0d0;
+    cursor: pointer;
+    color: black !important; /* Đảm bảo màu chữ khi hover vào */
+  }
+  
+  
+  .filter-section {
+    min-width: 150px; /* Điều chỉnh độ rộng của mỗi phần */
+  }

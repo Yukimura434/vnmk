@@ -1,0 +1,112 @@
+
+.city{
+    display: flex;
+}
+.wrapper__footer__social-media{
+        display: flex;
+        justify-content: space-between;
+        width: 150px;
+        height: 40px;
+
+        & > a {
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            width: 40px;
+            height: 40px;
+            background: transparent;
+            border: 2px solid transparent;
+            text-decoration: none;
+            transform: rotate(45deg);
+            transition: .5s;
+            opacity: 0;
+            animation: slideSci .5s ease forwards;
+            animation-delay: calc(0.2s * var(--i));
+
+            &:hover{
+                // border-color: #eaeaea;
+                border-color: white;
+            }
+
+            &  box-icon {
+                font-size: 24px;
+                // color: #eaeaea;
+                color: white;
+                transform: rotate(-45deg);
+
+        }
+    }
+}
+
+.footer {
+    padding: 20px;
+    // background-color: #eaeaea;
+    background-color: white;
+    color: #333;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-top: 1px solid black;
+  
+    &__section {
+      flex: 1;
+      min-width: 150px;
+      margin: 10px;
+    }
+  
+    h4 {
+      font-size: 16px;
+      margin-bottom: 10px;
+      font-family: monospace;
+    }
+  
+    p {
+      margin: 5px 0;
+      font-family: monospace;
+
+    }
+  
+    &__social {
+      i {
+        margin-right: 10px;
+        font-size: 20px;
+      }
+    }
+  
+    &__newsletter {
+      flex: 2;
+      min-width: 300px;
+      display: flex;
+      flex-direction: column;
+  
+      h4 {
+        font-size: 16px;
+        margin-bottom: 10px;
+      }
+  
+      input {
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+      }
+  
+      button {
+        padding: 10px;
+        background-color: #000;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+    }
+  
+    &__copyright {
+      flex: 1;
+      min-width: 100%;
+      margin-top: 20px;
+      font-size: 12px;
+      text-align: center;
+    }
+  }
+  

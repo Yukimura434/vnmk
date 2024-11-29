@@ -1,0 +1,11 @@
+{
+    "name": "nest-backend",
+    "build": {
+      "command": "npm install && npm run build",
+      "output": "dist"
+    },
+    "start": {
+      "command": "npm run start:prod"
+    }
+  }
+  

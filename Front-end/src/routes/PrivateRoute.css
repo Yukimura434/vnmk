@@ -1,0 +1,43 @@
+
+.custom-ok-button,
+.custom-cancel-button {
+  border-radius: 0px;
+  transition: all 0.3s ease;
+}
+
+.custom-ok-button {
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+}
+
+.custom-ok-button:hover {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+
+/* Nút Tiếp tục */
+.custom-cancel-button {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+
+.custom-cancel-button:hover {
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+}
+
+.custom-ok-button:hover ~ .custom-cancel-button {
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+}
+
+.custom-cancel-button:hover ~ .custom-ok-button {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}

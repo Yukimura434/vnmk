@@ -1,0 +1,61 @@
+// SearchComponent.scss
+.search-component-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.search-component-input {
+    width: 500px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.search-component-button {
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 0px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.search-component-button:hover {
+    background-color: #444;
+}
+
+.search-component-results {
+    list-style-type: none;
+    padding: 0;
+    max-height: 200px;
+    overflow-y: auto;
+    width: 800px; // Đảm bảo chiều rộng của danh sách khớp với input
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 20px; // Khoảng cách giữa nút và danh sách
+    margin-bottom: 20px;
+
+}
+
+.search-component-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    padding: 5px 10px;
+    cursor: pointer;
+    justify-content: space-between
+}
+
+.search-component-item img {
+    margin-right: 10px;
+}
+
+.search-component-item div {
+    margin-right: 20px;
+}

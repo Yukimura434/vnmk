@@ -1,0 +1,35 @@
+.chatbot-container {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    z-index: 1000;
+  }
+  
+  .chatbot-toggle {
+    // background-color: #007bff;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .chatbot-toggle img {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .chatbot-iframe {
+    position: absolute;
+    bottom: 60px;
+    right: 0;
+    width: 360px;
+    height: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  

@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.img {
+    height: 50px;
+    width: auto;
+}
+.wrapper__header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 8%;
+    // background: #eaeaea;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    border-bottom: 1px solid #000;
+
+    &__logo {
+        font-size: 25px;
+        color: #222;
+        text-decoration: none;
+        font-weight: 600;
+        opacity: 0;
+        animation: slideRight 1s ease forwards;
+    }
+
+    &__navbar {
+        display: flex;
+        align-items: center;
+        
+        & a {
+            display: inline-block;
+            font-size: 18px;
+            color: #222;
+            text-decoration: none;
+            font-weight: 600;
+            margin: 0 20px;
+            transition: .3s;
+            opacity: 0;
+            animation: slideTop .5s ease forwards;
+            animation-delay: calc(0.2s * var(--i));
+            font-family: monospace;
+
+
+            &:hover,
+            &.active {
+                color: #000; 
+                font-size: 20px;
+                font-weight: 600;
+                // text-decoration:solid;
+                text-decoration: underline;
+            }
+        }
+    }
+
+    &__social-media {
+        display: flex;
+        justify-content: space-between;
+        width: 150px;
+        height: 40px;
+
+        & > a {
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            width: 40px;
+            height: 40px;
+            background: transparent;
+            border: 2px solid transparent;
+            text-decoration: none;
+            transform: rotate(45deg);
+            transition: .5s;
+            opacity: 0;
+            animation: slideSci .5s ease forwards;
+            animation-delay: calc(0.2s * var(--i));
+
+            &:hover{
+                border-color: #000;
+            }
+
+            &  box-icon {
+                font-size: 24px;
+                // color: #eaeaea;
+                color: white;
+                transform: rotate(-45deg);
+
+            }
+        }
+    }
+}
+.search-dropdown {
+    position: absolute;
+    top: 100%; /* Đặt vị trí bên dưới thanh header */
+    left: 0;
+    width: 100%; /* Chiều rộng bằng header */
+    // background-color: #eaeaea;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1000; /* Đảm bảo nằm trên header */
+    display: none; /* Mặc định ẩn đi */
+}
+
+.search-dropdown.active {
+    display: block; /* Hiển thị khi được kích hoạt */
+}
+
+@keyframes slideRight {
+    0% {
+        transform: translateX(-100px);
+        opacity: 0;
+        
+    } 
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+
+    } 
+}
+
+@keyframes slideTop {
+    0% {
+        transform: translateY(100px);
+        opacity: 0;
+        
+    } 
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+
+    } 
+}
+
+
+
+@keyframes slideSci {
+    0% {
+        transform: translateX(100px) rotate(45deg);
+        opacity: 0;
+        
+    } 
+    100% {
+        transform: translateX(0) rotate(45deg);
+        opacity: 1;
+
+    } 
+}

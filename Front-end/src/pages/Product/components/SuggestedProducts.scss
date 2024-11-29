@@ -1,0 +1,23 @@
+/* Tùy chỉnh thanh cuộn */
+.suggested-products-container {
+    scrollbar-width: thin; /* Dành cho Firefox */
+  }
+  
+  .suggested-products-container::-webkit-scrollbar {
+    height: 50px; /* Tăng chiều cao thanh cuộn */
+    margin-top: 20px;
+  }
+  
+  .suggested-products-container::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Màu nền thanh cuộn */
+  }
+  
+  .suggested-products-container::-webkit-scrollbar-thumb {
+    background: #888; /* Màu của thanh cuộn */
+    border-radius: 10px; /* Bo tròn thanh cuộn */
+  }
+  
+  .suggested-products-container::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Màu khi hover lên thanh cuộn */
+  }
+  
