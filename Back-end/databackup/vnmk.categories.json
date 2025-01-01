@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6749e62a24417ea8e0551c31"
+  },
+  "name": "Khuyến mãi",
+  "availabilityStatus": "Product",
+  "order": 0,
+  "menuId": {
+    "$oid": "6749e61424417ea8e0551c2c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749e63a24417ea8e0551c35"
+  },
+  "name": "Pre-order",
+  "availabilityStatus": "Pre-order",
+  "order": 0,
+  "menuId": {
+    "$oid": "6749e61424417ea8e0551c2c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749e65724417ea8e0551c3a"
+  },
+  "name": "Phụ kiện",
+  "availabilityStatus": "Product",
+  "order": 0,
+  "menuId": {
+    "$oid": "6749e61424417ea8e0551c2c"
+  },
+  "__v": 0
+}]

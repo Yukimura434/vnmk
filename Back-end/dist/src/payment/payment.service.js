@@ -44,7 +44,7 @@ let PaymentService = class PaymentService {
             description: `VNMK - Payment for the order #${transID}`,
             bank_code: '',
             mac: '',
-            callback_url: 'https://0f78-112-197-200-142.ngrok-free.app/api/payment/zalopayCallback',
+            callback_url: 'https://be6b-112-197-200-142.ngrok-free.app/api/payment/zalopayCallback',
         };
         const data = config.app_id +
             '|' +

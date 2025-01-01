@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "6749e58724417ea8e0551c0a"
+  },
+  "type": "LOCAL",
+  "displayName": "admin",
+  "username": "admin",
+  "password": "$2b$10$HhPxeFI6rkH254ywt9cNYOZfpQfHwZFqPmyGF3VWf8qeEkTE1Eeui",
+  "avaUrl": "http://localhost:5000/api/uploads/avatar/user_avatar_default.png",
+  "contactPhone": "",
+  "address": "",
+  "addressDetail": "",
+  "facebookId": "",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzQ5ZTU4NzI0NDE3ZWE4ZTA1NTFjMGEiLCJpYXQiOjE3MzU3MTgzNzUsImV4cCI6MTczNjMyMzE3NX0.zbn4zLCDaDVKy6MAg3CV4whm_a2MEVkgMHz94_nZ-v0",
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzQ5ZTU4NzI0NDE3ZWE4ZTA1NTFjMGEiLCJpYXQiOjE3MzU3MTgzNzUsImV4cCI6MTczNTc0NzE3NX0.EcJS_x_c_PfF8LTFPKQJhXXSinPkU-nMkkpDf8Huzrc",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-11-29T16:02:15.442Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-01T07:59:35.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674a0034c2ed30c3e3909197"
+  },
+  "type": "GOOGLE",
+  "displayName": "Phong Quốc Huỳnh",
+  "username": "105460979147405273277",
+  "password": "",
+  "avaUrl": "https://lh3.googleusercontent.com/a/ACg8ocL7jQMNVZcX-pJRGmmYp2NDjDScctHnKvZa4qEsDhuQvMZ4ULvq=s96-c",
+  "contactPhone": "",
+  "address": "",
+  "addressDetail": "",
+  "facebookId": "",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzRhMDAzNGMyZWQzMGMzZTM5MDkxOTciLCJpYXQiOjE3MzI5MDI5NjQsImV4cCI6MTczMzUwNzc2NH0.pHQRNBDQjBz6lEMwwjs07FXm7z0CaMiH_ixtRhfX1Ms",
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzRhMDAzNGMyZWQzMGMzZTM5MDkxOTciLCJpYXQiOjE3MzI5MDI5NjQsImV4cCI6MTczMjkzMTc2NH0.fEUK0pxyLTxv1VzW9uMrdINX_t7YTCUvsWYNdW2-oDE",
+  "role": "member",
+  "createdAt": {
+    "$date": "2024-11-29T17:56:04.432Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T17:56:04.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674a0095c2ed30c3e39091b3"
+  },
+  "type": "LOCAL",
+  "displayName": "client",
+  "username": "client",
+  "password": "$2b$10$XTz.quG5530guOVS4B5DL.vAQAoXSxCiplN.JV42UhiuR7b1HBI0i",
+  "avaUrl": "http://localhost:5000/api/uploads/avatar/user_avatar_default.png",
+  "contactPhone": "",
+  "address": "",
+  "addressDetail": "",
+  "facebookId": "",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzRhMDA5NWMyZWQzMGMzZTM5MDkxYjMiLCJpYXQiOjE3MzI5MDM4NDQsImV4cCI6MTczMzUwODY0NH0.fqdUwcnJq7R50RSM5VPS9mkjzzKy2cUWEpHddLMI_4o",
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzRhMDA5NWMyZWQzMGMzZTM5MDkxYjMiLCJpYXQiOjE3MzI5MDM4NDQsImV4cCI6MTczMjkzMjY0NH0.7ckgm3a6jAGgsw7bnR3I02Hvjck9TcKywNdMLCCcwHg",
+  "role": "member",
+  "createdAt": {
+    "$date": "2024-11-29T17:57:41.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T18:10:44.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674a02acc2ed30c3e39091f8"
+  },
+  "type": "LOCAL",
+  "displayName": "test",
+  "username": "test",
+  "password": "$2b$10$h3VaChLQ23U2ZbzBeHHXUeHdzb57EZsX4UWhwqDHoegZ/WbVIDpRm",
+  "avaUrl": "http://localhost:5000/api/uploads/avatar/user_avatar_default.png",
+  "contactPhone": "",
+  "address": "",
+  "addressDetail": "",
+  "facebookId": "",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzRhMDJhY2MyZWQzMGMzZTM5MDkxZjgiLCJpYXQiOjE3MzI5MDM2MDUsImV4cCI6MTczMzUwODQwNX0.zK3e20N_snNWxNZ8iJN5ZgQLf2xLb-gzexmPLwaMB8U",
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzRhMDJhY2MyZWQzMGMzZTM5MDkxZjgiLCJpYXQiOjE3MzI5MDM2MDUsImV4cCI6MTczMjkzMjQwNX0.WkpU31uqCjWRGo-DjQi2p0SnNgtjWCdU5yCEFV5aOtk",
+  "role": "member",
+  "createdAt": {
+    "$date": "2024-11-29T18:06:36.801Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T18:06:45.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674a04e40965a69abb47676c"
+  },
+  "type": "LOCAL",
+  "displayName": "test1",
+  "username": "test1",
+  "password": "$2b$10$i/NA/Eotdy.Ue8G3gGuxL.G2x3lQg0fsGG/zil5l04tnCEFUrW8g6",
+  "avaUrl": "http://localhost:5000/api/uploads/avatar/user_avatar_default.png",
+  "contactPhone": "",
+  "address": "",
+  "addressDetail": "",
+  "facebookId": "",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzRhMDRlNDA5NjVhNjlhYmI0NzY3NmMiLCJpYXQiOjE3MzI5MDQ1NDYsImV4cCI6MTczMzUwOTM0Nn0.ybZ74n84N59zpLpTE6vbOX1FqCcvBHKYgdiCms5W4oY",
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzRhMDRlNDA5NjVhNjlhYmI0NzY3NmMiLCJpYXQiOjE3MzI5MDQ1NDYsImV4cCI6MTczMjkzMzM0Nn0.BrZEGD52V5fc89wCs81yf_SLKTGPf0OlMpyEs6Pbbu8",
+  "role": "member",
+  "createdAt": {
+    "$date": "2024-11-29T18:16:04.092Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T18:22:26.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774f51ba6dde6b295b65f45"
+  },
+  "type": "LOCAL",
+  "displayName": "client@gmail.com",
+  "username": "TestClient",
+  "password": "$2b$10$qVf50L3A6r5JeehQM6giTOec7tKvJq5hhJab9wxNhLjrs5YqoH3fO",
+  "avaUrl": "http://localhost:5000/api/uploads/avatar/user_avatar_default.png",
+  "contactPhone": "",
+  "address": "",
+  "addressDetail": "",
+  "facebookId": "",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzc0ZjUxYmE2ZGRlNmIyOTViNjVmNDUiLCJpYXQiOjE3MzU3MTgxODQsImV4cCI6MTczNjMyMjk4NH0.Jp7zxCuiVDXH2euMB0nV6lU-pj2T9ubbrozk2CyZYso",
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzc0ZjUxYmE2ZGRlNmIyOTViNjVmNDUiLCJpYXQiOjE3MzU3MTgxODQsImV4cCI6MTczNTc0Njk4NH0.moOds1FfR_d7doDKNOKYBW6laJj6QZ0Fdi1CNb8l2dE",
+  "role": "member",
+  "createdAt": {
+    "$date": "2025-01-01T07:56:11.685Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-01T07:56:24.426Z"
+  },
+  "__v": 0
+}]

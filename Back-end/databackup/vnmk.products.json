@@ -1,0 +1,778 @@
+[{
+  "_id": {
+    "$oid": "6749eb5e24417ea8e0551c84"
+  },
+  "name": "Bàn Phím Cơ RAINY 75",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/z5832992218551-7674ce70c6985bb0fa10b0ad4f8c1df1-1726389971507.jpg?v=1726391198727",
+    "https://bizweb.dktcdn.net/100/438/322/products/z5833039700565-a8a193f8b2b0979e909e1b031b2f568c.jpg?v=1726475560187"
+  ],
+  "description": "Thương hiệu: Sói Gear Mã sản phẩm: PVN6990",
+  "descriptionFull": "Thông số sản phẩm:\nMaker: WOBLAB\nLayout: 75%\nMounting Style: PCB gasket Mount\nGóc nghiêng: 8°\nKeycap PBT doubleshot\nFull foam\nPCB 1.2mm \nTrọng lượng: ~1.8 kg với phiên bản pin 3500mAh, ~2kg với phiên bản pin 7000mAh\nBảo hành 1 tháng",
+  "originalPrice": 2000000,
+  "salePrice": 1850000,
+  "keyCount": 75,
+  "modes": 3,
+  "color": "Trắng",
+  "movementType": "Cơ",
+  "batteryCapacity": 7000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhôm",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e68c24417ea8e0551c3e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749ec1e24417ea8e0551c8d"
+  },
+  "name": "Aula F87",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/picture9.jpg?v=1728206078533",
+    "https://bizweb.dktcdn.net/100/438/322/products/picture8.jpg?v=1728206077950"
+  ],
+  "description": "Thương hiệu: Sói Gear Mã sản phẩm: PVN7111",
+  "descriptionFull": "Thông số sản phẩm:\n- Chất liệu: nhựa\n- Xuất xứ: Trung Quốc\n- Kích thước: 36.59 × 13.9 × 4.11 cm\n- Bảo hành: 1 tháng\n- Tên sản phẩm: AULA F87\n- Layout TKL\n- Hotswap socket 5 pin\n- Đèn nền RGB.\n- KEYCAP chất liệu PBT doubleshot dày đẹp, đặc biệt có bản Keycap ninja xuyên LED\n- 3 MODE KẾT NỐI (Bluetooth 5.1, Wireless 2.4G, Type C)\n- Hỗ trợ các hệ điều hành: windows, MacOS, Android, IOS\n- Phím đã được lót sẵn full foam từ hãng\n- Dung lượng pin 4000mAh",
+  "originalPrice": 950000,
+  "salePrice": 750000,
+  "keyCount": 87,
+  "modes": 3,
+  "color": "Đỏ",
+  "movementType": "Cơ",
+  "batteryCapacity": 4000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhôm",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e68c24417ea8e0551c3e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749ecfc24417ea8e0551c92"
+  },
+  "name": "Mode Tempo - Case",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/mirage-1706781756989.jpg?v=1729484738257",
+    "https://bizweb.dktcdn.net/100/438/322/products/20240119-200029.jpg?v=1729484738257"
+  ],
+  "description": "Thương hiệu: Sói Gear Mã sản phẩm: PVN5826",
+  "descriptionFull": "Thông tin sản phẩm:\n- Chất liệu: Nhôm\n- Kích thước: Layout 60%\n- Xuất xứ: Mỹ\n- Bảo hành: 1 tháng",
+  "originalPrice": 7200000,
+  "salePrice": 6200000,
+  "keyCount": 61,
+  "modes": 3,
+  "color": "Đen",
+  "movementType": "Cơ",
+  "batteryCapacity": 4000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhôm",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e68c24417ea8e0551c3e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749edb724417ea8e0551c97"
+  },
+  "name": "Freya",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/10013.jpg?v=1727146955203",
+    "https://bizweb.dktcdn.net/100/438/322/products/10016.jpg?v=1727146955203"
+  ],
+  "description": "Thương hiệu: Wuque Mã sản phẩm: PVN7041",
+  "descriptionFull": "Thông tin sản phẩm: \n- Chất liệu: nhôm\n- Kích thước: layout 68%\n- Xuất xứ: Trung Quốc\n- Bảo hành: 1 tháng",
+  "originalPrice": 9450000,
+  "salePrice": 9050000,
+  "keyCount": 40,
+  "modes": 4,
+  "color": "Xanh",
+  "movementType": "Cơ",
+  "batteryCapacity": 4000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhôm",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e68c24417ea8e0551c3e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749ee8524417ea8e0551c9c"
+  },
+  "name": "TET KIT Keyboard",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/navy-jpeg-1690365076691.jpg?v=1690365377960",
+    "https://bizweb.dktcdn.net/100/438/322/products/rose-gold-jpeg-1690365077934.jpg?v=1690365377927"
+  ],
+  "description": "Thương hiệu: KBDFANS Mã sản phẩm: PVN4163",
+  "descriptionFull": "Thông tin sản phẩm:  \n- Chất liệu: nhôm\n- Kích thước:  210mm*72mm*71mm\n- Xuất xứ: Trung Quốc\n- Bảo hành: không",
+  "originalPrice": 8700000,
+  "salePrice": 7900000,
+  "keyCount": 104,
+  "modes": 3,
+  "color": "Xanh",
+  "movementType": "Cơ",
+  "batteryCapacity": 4000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhôm",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e68c24417ea8e0551c3e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749ef4824417ea8e0551ca1"
+  },
+  "name": "KIT bàn phím cơ GMK70",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/bia-21c7e48c-14cb-4a53-ae38-ba29af4eba99.jpg?v=1732869521007",
+    "https://bizweb.dktcdn.net/100/438/322/products/04-1732854648146.jpg?v=1732869521007"
+  ],
+  "description": "Thương hiệu: zouya Mã sản phẩm: PVN7300",
+  "descriptionFull": "Case: Nhựa\nKiểu mount: Gasket mount\nLayout: 70% Layout Split Keyboard + Knob\nFoam: PORON/IXPE/PET plate & foam đáy\nPCB\t1.2mm PCB, Hotswap, Mạch xuôi RGB, PC Flex-cut plate",
+  "originalPrice": 1500000,
+  "salePrice": 1300000,
+  "keyCount": 98,
+  "modes": 3,
+  "color": "Trắng",
+  "movementType": "Cơ",
+  "batteryCapacity": 4000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhôm",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e69724417ea8e0551c44"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e104a6dde6b295b65eb8"
+  },
+  "name": "KIT bàn phím Cidoo ABM066",
+  "images": [
+    "https://gearshop.vn/upload/images/Product/CIDOO/ABM066/ABM066.jpg"
+  ],
+  "description": "KIT bàn phím Cidoo ABM066 | Alice Layout - RGB - Không dây",
+  "descriptionFull": "Layout: Split Alice (67 Keys + 1 Knob)\nKết nối: Type-C Wired, Bluetooth 5.0 & 2.4GHz\nKiếu Mount: Gasket Mount\nLED: RGB.\nPin: 3000mAh\nMàu sắc: Đen\nChất liệu: nhựa ABS\nHỗ trợ hệ điều hành: Windows, MacOS\nAnti-Ghost Key: Có hỗ trợ - NKRO\nTrang bị sẵn đệm tiêu âm\nMạch xuôi 5 pin hỗ trợ hotswap thay switch dễ dàng\nStabilizer hỗ trợ cả PCB Mount và Plate Mount được lube và căn chỉnh sẵn",
+  "originalPrice": 1999000,
+  "salePrice": 1399000,
+  "keyCount": 68,
+  "modes": 3,
+  "color": "Đen",
+  "movementType": "Cơ",
+  "batteryCapacity": 3000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e69724417ea8e0551c44"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e178a6dde6b295b65ebd"
+  },
+  "name": "Base KIT phím cơ Angry Miao Cyberboard Glacier R2",
+  "images": [
+    "https://gearshop.vn/upload/resizer.php?src=/upload/images/Product/Angry%20Miao/Cyberboard%20Glacier%20R2/Bundle-AngryMiao-Cyberboard-Glacier-R2-trong-su%E1%BB%91t.jpg&w=1200&h=1200&q=72&zc=2",
+    "https://gearshop.vn/upload/resizer.php?src=/upload/images/Product/Angry%20Miao/Cyberboard%20Glacier%20R2/Bundle-AngryMiao-Cyberboard-Glacier-R2-cao-c%E1%BA%A5p-(9).jpg&w=1200&h=1200&q=72&zc=2"
+  ],
+  "description": "Base KIT phím cơ Angry Miao Cyberboard Glacier R2 | Không dây - Trong suốt",
+  "descriptionFull": "Tên sản phẩm: Base Kit Angry Miao Cyberboard Glacier R2\nLayout: 75% - 81 phím\nKết nối: không dây Bluetooth 5.1 / USB 2.4G - USB C (có hỗ trợ C to C)\nLED: RGB - tùy chỉnh qua VIA\nChất liệu: PC body\nPin: \nKiểu mount: Leaf Spring độc quyền\nMạch xuôi 5 pin hỗ trợ hotswap\nMạch: Cut-Out, độ dày 1,2mm\nPhần mềm: Keymap thông qua VIA \nHỗ trợ HĐH: Windows or MacOS\nSạc không dây: Có hỗ trợ QI",
+  "originalPrice": 20000000,
+  "salePrice": 18990000,
+  "keyCount": 75,
+  "modes": 3,
+  "color": "Trắng",
+  "movementType": "Cơ",
+  "batteryCapacity": 3000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e69724417ea8e0551c44"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e1dea6dde6b295b65ec2"
+  },
+  "name": "Bundle Angry Miao Relic 80 Chalk White",
+  "images": [
+    "https://gearshop.vn/upload/resizer.php?src=/upload/images/Product/Angry%20Miao/Relic%2080/Bundle-Angry-Miao-Relic-80-Chalk-White-k%C3%A8m-switch-v%C3%A0-keycap-1.jpg&w=1200&h=1200&q=72&zc=2",
+    "https://gearshop.vn/upload/resizer.php?src=/upload/images/Product/Angry%20Miao/Relic%2080/Angry-Miao-Relic-80--(1).jpg&w=1200&h=1200&q=72&zc=2"
+  ],
+  "description": "Bundle Angry Miao Relic 80 Chalk White",
+  "descriptionFull": "Phương thức kết nối: 3 chế độ gồm USB 2.4G, Bluetooth 5.1, Có dây\nLayout: 80%\nMount: 3-stage adjustable leaf spring\nHotswap: Có hỗ trợ Hot-swappable\nĐèn báo: Đèn RGB ở góc vỏ và đèn báo Caps Lock\nUSB Port: USB 2.0, Type-C, supports USB-C to USB-C\nPin: Lithium polymer 5000mAh *2, 10000mAh tổng (typical)\nGóc nghiêng: 8°\nSạc không dây: Wireless charging 5W\nNguồn tiêu thụ: 4W\nLayout/Lighting Configuration: Configurable on Windows/macOS\nCân nặng: Base Kit 2.0kg / Bundle 2.25kg\nDrivers: Không cần cài đặt phần mềm, supports N-key rollover",
+  "originalPrice": 20990000,
+  "salePrice": 17490000,
+  "keyCount": 87,
+  "modes": 3,
+  "color": "Đen",
+  "movementType": "Cơ",
+  "batteryCapacity": 3000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhôm",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e69724417ea8e0551c44"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e49ba6dde6b295b65ecf"
+  },
+  "name": "Stab Owlab V3",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/o1cn017pvgms2dpsmbmb8dy-35038659-1683376339009.jpg?v=1683705993403",
+    "https://bizweb.dktcdn.net/100/438/322/products/o1cn01fcc97w2dpsm5jmo5k-35038659.jpg?v=1683705993403"
+  ],
+  "description": "Stab Owlab V3",
+  "descriptionFull": "Với chất liệu Liquid Metal dùng để làm wire, gần như rất khó để bị biến dạng trong quá trình vận chuyển và sử dụng, wire với độ thẳng khá cao khiến cho trải nghiệm khi sử dụng tốt hơn các loại Stab khác.",
+  "originalPrice": 349000,
+  "salePrice": 299000,
+  "keyCount": 104,
+  "modes": 1,
+  "color": "Đen",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Linear",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e72424417ea8e0551c50"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e52ea6dde6b295b65ed4"
+  },
+  "name": "Stab Gateron Ink Black V2 Pro",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/7385696899.jpg?v=1733197486860",
+    "https://bizweb.dktcdn.net/100/438/322/products/gatinkv2prostabinside-1733139190215.jpg?v=1733197491253"
+  ],
+  "description": "Stab Gateron Ink Black V2 Pro",
+  "descriptionFull": "Đây là bộ stab cao cấp cho trải nghiệm gõ phím tuyệt vời.",
+  "originalPrice": 999000,
+  "salePrice": 700000,
+  "keyCount": 104,
+  "modes": 1,
+  "color": "Đen",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Linear",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e72424417ea8e0551c50"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e5aba6dde6b295b65ed9"
+  },
+  "name": "Stab M-One PCB Mount V1/V2",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/stab-m-one.jpg?v=1703645441810",
+    "https://bizweb.dktcdn.net/100/438/322/products/white-1702628758144.jpg?v=1703645441810"
+  ],
+  "description": "Stab M-One PCB Mount V1/V2",
+  "descriptionFull": "Stab M-One PCB Mount V1/V2",
+  "originalPrice": 300000,
+  "salePrice": 230000,
+  "keyCount": 104,
+  "modes": 1,
+  "color": "Đen",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Linear",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e72424417ea8e0551c50"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e619a6dde6b295b65ede"
+  },
+  "name": "Stab Neo x QK PCB Mount 1.2mm 16mm",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/o1cn01ut6dr62dpsrgmakcu-35038659.jpg?v=1712563374800",
+    "https://bizweb.dktcdn.net/100/438/322/products/o1cn01nejfbs2dpsrmyqaka-35038659.jpg?v=1712563374800"
+  ],
+  "description": "Stab Neo x QK PCB Mount 1.2mm 16mm",
+  "descriptionFull": "Stab Neo x QK PCB Mount 1.2mm 16mm",
+  "originalPrice": 200000,
+  "salePrice": 159000,
+  "keyCount": 104,
+  "modes": 1,
+  "color": "Đen",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Linear",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e72424417ea8e0551c50"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e6c6a6dde6b295b65ee3"
+  },
+  "name": "[In-stock] Switch Linear Jade Rosales",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/img-5151.jpg?v=1732176131880",
+    "https://bizweb.dktcdn.net/100/438/322/products/img-5152.jpg?v=1732176133637"
+  ],
+  "description": "[In-stock] Switch Linear Jade Rosales",
+  "descriptionFull": "[In-stock] Switch Linear Jade Rosales",
+  "originalPrice": 12000,
+  "salePrice": 11000,
+  "keyCount": 1,
+  "modes": 1,
+  "color": "Hồng",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Linear",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e6c424417ea8e0551c48"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e767a6dde6b295b65ee8"
+  },
+  "name": "Switch Tactile Hutt",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/fmutr6i-itz1y61ce0jk0wim1px1-png-cover1440-1695963767271.jpg?v=1700553329153",
+    "https://bizweb.dktcdn.net/100/438/322/products/fujv-nykgnjjel-ny2fitzpsiu17-png-cover1440.jpg?v=1700553329153"
+  ],
+  "description": "Switch Tactile Hutt",
+  "descriptionFull": "Switch Tactile Hutt",
+  "originalPrice": 12000,
+  "salePrice": 11000,
+  "keyCount": 1,
+  "modes": 1,
+  "color": "Hồng",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Tactile",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e6c424417ea8e0551c48"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e7e2a6dde6b295b65eed"
+  },
+  "name": "Switch Clicky Gateron Melodic",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/z5305436663094-025d2b9d1d4eaa5d7d7cec55a0f5e77f-1711963230768.jpg?v=1711965908157",
+    "https://bizweb.dktcdn.net/100/438/322/products/z5305436695374-d8ab1d9bf1605d51f64f11788f209f88.jpg?v=1711965908157"
+  ],
+  "description": "Switch Clicky Gateron Melodic",
+  "descriptionFull": "Switch Clicky Gateron Melodic",
+  "originalPrice": 15000,
+  "salePrice": 13000,
+  "keyCount": 1,
+  "modes": 1,
+  "color": "Xanh",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Clicky",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e6c424417ea8e0551c48"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e861a6dde6b295b65ef2"
+  },
+  "name": "[In-stock] Switch Outemu Silent v3",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/s9e0c57f5b4b34915899fa7698d5c497-1722570659449.jpg?v=1722570663153",
+    "https://bizweb.dktcdn.net/100/438/322/products/s1f2ad72a379c42fcaed5a2dfd14ce49-1722570659448.jpg?v=1722570662677"
+  ],
+  "description": "[In-stock] Switch Outemu Silent v3",
+  "descriptionFull": "[In-stock] Switch Outemu Silent v3",
+  "originalPrice": 5000,
+  "salePrice": 4000,
+  "keyCount": 1,
+  "modes": 1,
+  "color": "Hồng",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Silent",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e6c424417ea8e0551c48"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e908a6dde6b295b65ef7"
+  },
+  "name": "[In-stock] Keycap Lobo Artisan Loopy",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/11728987438158b3592d979f8a4e7f.png?v=1733727655900",
+    "https://bizweb.dktcdn.net/100/438/322/products/31728987438174b977d3f7f8944648.png?v=1733727655900"
+  ],
+  "description": "[In-stock] Keycap Lobo Artisan Loopy",
+  "descriptionFull": "[In-stock] Keycap Lobo Artisan Loopy",
+  "originalPrice": 100000,
+  "salePrice": 89000,
+  "keyCount": 1,
+  "modes": 1,
+  "color": "Hồng",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Không",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e6cd24417ea8e0551c4c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774e990a6dde6b295b65efc"
+  },
+  "name": "[In-stock] Keycap Lobo Artisan Capybara",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/117278400685833c350538f244415c.png?v=1733727649270",
+    "https://bizweb.dktcdn.net/100/438/322/products/screenshot20240926155425172784.png?v=1733727649270"
+  ],
+  "description": "[In-stock] Keycap Lobo Artisan Capybara",
+  "descriptionFull": "[In-stock] Keycap Lobo Artisan Capybara",
+  "originalPrice": 100000,
+  "salePrice": 98000,
+  "keyCount": 1,
+  "modes": 1,
+  "color": "Nâu",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Không",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e6cd24417ea8e0551c4c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774ea3ea6dde6b295b65f01"
+  },
+  "name": "[In Stock] Dây cáp HCC Siêu Dày",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/5-c95206c7-513a-4a53-a06e-320f3ccdd363.jpg?v=1735203034127",
+    "https://bizweb.dktcdn.net/100/438/322/products/4-c5619088-de5f-4e5a-ad1d-5a54425078cf.jpg?v=1735203034127"
+  ],
+  "description": "[In Stock] Dây cáp HCC Siêu Dày",
+  "descriptionFull": "[In Stock] Dây cáp HCC Siêu Dày9`",
+  "originalPrice": 300000,
+  "salePrice": 280000,
+  "keyCount": 104,
+  "modes": 1,
+  "color": "Đỏ",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Không",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e78524417ea8e0551c58"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774eac7a6dde6b295b65f06"
+  },
+  "name": "Dây cáp xoắn HCC 2in1",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/1-0ce339cc-2b88-4424-95c1-a9885dac887b.jpg?v=1735118189067",
+    "https://bizweb.dktcdn.net/100/438/322/products/8-e7844fda-e355-49d3-a6f7-509ed1fede65.jpg?v=1735118189067"
+  ],
+  "description": "Dây cáp xoắn HCC 2in1",
+  "descriptionFull": "Dây cáp xoắn HCC 2in1",
+  "originalPrice": 300000,
+  "salePrice": 270000,
+  "keyCount": 1,
+  "modes": 1,
+  "color": "Đỏ",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Không",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e78524417ea8e0551c58"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774eb4ca6dde6b295b65f0b"
+  },
+  "name": "[In-stock] Keycap MOA Crayon Shinchan PBT Dyesub",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/2-1723884607813.jpg?v=1723888857847",
+    "https://bizweb.dktcdn.net/100/438/322/products/3-1723884607818.jpg?v=1723888857847"
+  ],
+  "description": "[In-stock] Keycap MOA Crayon Shinchan PBT Dyesub",
+  "descriptionFull": "[In-stock] Keycap MOA Crayon Shinchan PBT Dyesub",
+  "originalPrice": 500000,
+  "salePrice": 490000,
+  "keyCount": 104,
+  "modes": 1,
+  "color": "Hồng",
+  "movementType": "Cơ",
+  "batteryCapacity": 0,
+  "switchType": "Không",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e6cd24417ea8e0551c4c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774ecada6dde6b295b65f10"
+  },
+  "name": "Bàn phím cơ số không dây Kzzi K20 - Numpad Kzzi K20 (3 Mode)",
+  "images": [
+    "https://zpro.vn/images/product/500x500/ban-phim-co-so-khong-day-kzzi-k20-numpad-kzzi-k20-3-mode.1713288509.jpg",
+    "https://zpro.vn/images/product/500x500/ban-phim-co-so-khong-day-kzzi-k20-wireless-numpad-kzzi-k20-3-mode.1713288331.jpg"
+  ],
+  "description": "Bàn phím cơ số không dây Kzzi K20 - Numpad Kzzi K20 (3 Mode)",
+  "descriptionFull": "Bàn phím cơ số không dây Kzzi K20 - Numpad Kzzi K20 (3 Mode)",
+  "originalPrice": 649000,
+  "salePrice": 575000,
+  "keyCount": 40,
+  "modes": 3,
+  "color": "Vàng",
+  "movementType": "Cơ",
+  "batteryCapacity": 3000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e77f24417ea8e0551c54"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774ed4ea6dde6b295b65f15"
+  },
+  "name": "Numpad cơ Darmoshark K3 Pro",
+  "images": [
+    "https://owlgaming.vn/wp-content/uploads/2023/10/numpad-co-darmoshark-k3-pro.jpg",
+    "https://owlgaming.vn/wp-content/uploads/2023/10/numpad-co-darmoshark-k3-pro-1-768x768.jpg"
+  ],
+  "description": "Numpad cơ Darmoshark K3 Pro",
+  "descriptionFull": "Numpad cơ Darmoshark K3 Pro",
+  "originalPrice": 1190000,
+  "salePrice": 990000,
+  "keyCount": 40,
+  "modes": 3,
+  "color": "Trắng",
+  "movementType": "Cơ",
+  "batteryCapacity": 3000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e77f24417ea8e0551c54"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774eda1a6dde6b295b65f1a"
+  },
+  "name": "Bàn phím cơ Numpad LEOBOG K21 RGB 3 Modes, Hotswap 5 chân, Không dây.",
+  "images": [
+    "https://bossgear.net/wp-content/uploads/2023/07/20230723_194357-copy-500x500.jpg",
+    "https://bossgear.net/wp-content/uploads/2023/07/20230723_194345-copy-500x500.jpg"
+  ],
+  "description": "Bàn phím cơ Numpad LEOBOG K21 RGB 3 Modes, Hotswap 5 chân, Không dây.",
+  "descriptionFull": "Bàn phím cơ Numpad LEOBOG K21 RGB 3 Modes, Hotswap 5 chân, Không dây.",
+  "originalPrice": 649000,
+  "salePrice": 499000,
+  "keyCount": 40,
+  "modes": 3,
+  "color": "Trắng",
+  "movementType": "Cơ",
+  "batteryCapacity": 3000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749e77f24417ea8e0551c54"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774f13ba6dde6b295b65f1f"
+  },
+  "name": "[In Stock] Zoom98 Nov Batch",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/zoom98-screen-ee-white-pvd-gold-1724985285919.jpg?v=1724985294233",
+    "https://bizweb.dktcdn.net/100/438/322/products/zoom98-screen-ee-milktea-ano-rosegold-1724985285982.jpg?v=1724985300797"
+  ],
+  "description": "[In Stock] Zoom98 Nov Batch",
+  "descriptionFull": "[In Stock] Zoom98 Nov Batch",
+  "originalPrice": 6000000,
+  "salePrice": 5250000,
+  "keyCount": 104,
+  "modes": 3,
+  "color": "Trắng",
+  "movementType": "Cơ",
+  "batteryCapacity": 3000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhựa",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749f1cb24417ea8e0551d0c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774f1fea6dde6b295b65f24"
+  },
+  "name": "[In Stock] Bàn phím cơ JER PLANET - JER1813 Kit",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/17-1679737717415.jpg?v=1679738006663",
+    "https://bizweb.dktcdn.net/100/438/322/products/18-1679737717428.jpg?v=1679738007923"
+  ],
+  "description": "[In Stock] Bàn phím cơ JER PLANET - JER1813 Kit",
+  "descriptionFull": "[In Stock] Bàn phím cơ JER PLANET - JER1813 Kit",
+  "originalPrice": 10990000,
+  "salePrice": 7500000,
+  "keyCount": 98,
+  "modes": 3,
+  "color": "Đen",
+  "movementType": "Cơ",
+  "batteryCapacity": 3000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhôm",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749f1cb24417ea8e0551d0c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774f2a5a6dde6b295b65f29"
+  },
+  "name": "[In Stock] Bàn phím cơ Monsgeek M5W KIT",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/2-6363296f-1a54-4cb1-82b8-57327200e577.jpg?v=1717763720340",
+    "https://bizweb.dktcdn.net/100/438/322/products/monsgeek-m5-diy-kit-black-3-1690115198557.jpg?v=1717763720620"
+  ],
+  "description": "[In Stock] Bàn phím cơ Monsgeek M5W KIT",
+  "descriptionFull": "[In Stock] Bàn phím cơ Monsgeek M5W KIT",
+  "originalPrice": 2050000,
+  "salePrice": 1950000,
+  "keyCount": 104,
+  "modes": 3,
+  "color": "Đen",
+  "movementType": "Cơ",
+  "batteryCapacity": 4000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhôm",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749f1d824417ea8e0551d10"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774f375a6dde6b295b65f37"
+  },
+  "name": "[In-stock] KIT Bàn phím cơ GMK104",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/z5859968776047-39216f86dae2f0d19c3d8d94459f4a8a.jpg?v=1728007709757",
+    "https://bizweb.dktcdn.net/100/438/322/products/z5859968797325-a24252ec9a8fe12db9cf6d008516746a.jpg?v=1728007709757"
+  ],
+  "description": "[In-stock] KIT Bàn phím cơ GMK104",
+  "descriptionFull": "[In-stock] KIT Bàn phím cơ GMK104",
+  "originalPrice": 1300000,
+  "salePrice": 1100000,
+  "keyCount": 104,
+  "modes": 3,
+  "color": "Đen",
+  "movementType": "Cơ",
+  "batteryCapacity": 3000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhôm",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749f1d824417ea8e0551d10"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6774f437a6dde6b295b65f3c"
+  },
+  "name": "[GB] Zoom65 V3 - Lift Off KIT",
+  "images": [
+    "https://bizweb.dktcdn.net/100/438/322/products/4.jpg?v=1718360996403"
+  ],
+  "description": "[GB] Zoom65 V3 - Lift Off KIT",
+  "descriptionFull": "[GB] Zoom65 V3 - Lift Off KIT",
+  "originalPrice": 6000000,
+  "salePrice": 5400000,
+  "keyCount": 61,
+  "modes": 3,
+  "color": "Xanh",
+  "movementType": "Cơ",
+  "batteryCapacity": 3000,
+  "switchType": "Linear",
+  "caseMatetial": "Nhôm",
+  "multiLayout": "Có",
+  "typeId": {
+    "$oid": "6749f1d824417ea8e0551d10"
+  },
+  "__v": 0
+}]

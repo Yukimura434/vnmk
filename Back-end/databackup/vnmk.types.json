@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "6749e68c24417ea8e0551c3e"
+  },
+  "name": "Bàn phím",
+  "categoryId": {
+    "$oid": "6749e62a24417ea8e0551c31"
+  },
+  "image": "https://i.pinimg.com/474x/e0/10/c8/e010c83c38fba264baedc1d6c4754504.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749e69724417ea8e0551c44"
+  },
+  "name": "Kit phím",
+  "categoryId": {
+    "$oid": "6749e62a24417ea8e0551c31"
+  },
+  "image": "https://i.pinimg.com/474x/e0/10/c8/e010c83c38fba264baedc1d6c4754504.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749e6c424417ea8e0551c48"
+  },
+  "name": "Switch",
+  "categoryId": {
+    "$oid": "6749e62a24417ea8e0551c31"
+  },
+  "image": "https://i.pinimg.com/474x/6c/fe/a6/6cfea623d1c136a717329b4f40f12191.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749e6cd24417ea8e0551c4c"
+  },
+  "name": "Keycaps",
+  "categoryId": {
+    "$oid": "6749e62a24417ea8e0551c31"
+  },
+  "image": "https://i.pinimg.com/474x/00/9f/36/009f36a1fb5b23f190119ba63aa3bc99.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749e72424417ea8e0551c50"
+  },
+  "name": "Stabilizer",
+  "categoryId": {
+    "$oid": "6749e62a24417ea8e0551c31"
+  },
+  "image": "https://i.pinimg.com/474x/c5/6e/36/c56e360c4a2dbcd5d19050d3c313759f.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749e77f24417ea8e0551c54"
+  },
+  "name": "Numpad",
+  "categoryId": {
+    "$oid": "6749e62a24417ea8e0551c31"
+  },
+  "image": "https://i.pinimg.com/474x/35/67/08/356708e2ac1f843c1a08639f72085c68.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749e78524417ea8e0551c58"
+  },
+  "name": "Phụ kiện",
+  "categoryId": {
+    "$oid": "6749e62a24417ea8e0551c31"
+  },
+  "image": "https://i.pinimg.com/474x/52/9a/10/529a10a3f1f0b1276e51969ea3aabd3d.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749f1cb24417ea8e0551d0c"
+  },
+  "name": "Pre_Bàn phím",
+  "categoryId": {
+    "$oid": "6749e63a24417ea8e0551c35"
+  },
+  "image": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749f1d824417ea8e0551d10"
+  },
+  "name": "Pre_Kit phím",
+  "categoryId": {
+    "$oid": "6749e63a24417ea8e0551c35"
+  },
+  "image": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749f1ed24417ea8e0551d14"
+  },
+  "name": "Pre_Stabilizer",
+  "categoryId": {
+    "$oid": "6749e63a24417ea8e0551c35"
+  },
+  "image": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749f1fc24417ea8e0551d18"
+  },
+  "name": "Pre_Switch",
+  "categoryId": {
+    "$oid": "6749e63a24417ea8e0551c35"
+  },
+  "image": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749f20724417ea8e0551d1c"
+  },
+  "name": "Pre_Keycaps",
+  "categoryId": {
+    "$oid": "6749e63a24417ea8e0551c35"
+  },
+  "image": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749f21124417ea8e0551d20"
+  },
+  "name": "Pre_Phụ kiện",
+  "categoryId": {
+    "$oid": "6749e63a24417ea8e0551c35"
+  },
+  "image": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749f21a24417ea8e0551d24"
+  },
+  "name": "Pre_Numpad",
+  "categoryId": {
+    "$oid": "6749e63a24417ea8e0551c35"
+  },
+  "image": "",
+  "__v": 0
+}]
